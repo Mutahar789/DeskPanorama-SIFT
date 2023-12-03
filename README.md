@@ -8,4 +8,4 @@ A Python implementation to stitch two images into a panorama using SIFT descript
 <img src="Figure2.jpeg" alt="color picker" />
 
 ### Stitched Image
-<img src="Sample_Result.jpeg" alt="color picker" />
+<img src="Sample_Result.jpg" alt="color picker" />
